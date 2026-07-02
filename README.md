@@ -13,8 +13,11 @@ LICENSE
 
 📖 Project Overview
 
-The UAC System Capacity & Care Load Analytics is a data-driven decision support system developed to address the operational challenges within the U.S. Department of Health and Human Services (HHS) Unaccompanied Children (UAC) program.
-As an AI & ML Engineer, I designed this solution to move beyond static reporting. By integrating statistical stress detection algorithms and advanced machine learning time-series forecasting (Prophet), the system provides stakeholders with the ability to visualize historical patterns, identify ongoing capacity backlogs, and predict future resource requirements before they reach critical levels.
+The UAC System Capacity & Care Load Analytics is a data-driven decision support system developed to address the operational challenges within the U.S. 
+Department of Health and Human Services (HHS) Unaccompanied Children (UAC) program.
+As an AI & ML Engineer, I designed this solution to move beyond static reporting. 
+By integrating statistical stress detection algorithms and advanced machine learning time-series forecasting (Prophet), 
+the system provides stakeholders with the ability to visualize historical patterns, identify ongoing capacity backlogs, and predict future resource requirements before they reach critical levels.
 
 
 🚀 Live Demo & Access
@@ -22,7 +25,8 @@ As an AI & ML Engineer, I designed this solution to move beyond static reporting
 Experience the live application here:
 🔗 Access the UAC System Analytics Dashboard
 💡 Why This Project Matters
-Managing unaccompanied children's care involves complex flow dynamics between border apprehension (CBP) and health services (HHS). This tool transforms raw, disparate data into actionable intelligence:
+Managing unaccompanied children's care involves complex flow dynamics between border apprehension (CBP) and health services (HHS). 
+This tool transforms raw, disparate data into actionable intelligence:
 Predictive Capability: Forecasts capacity strain up to 365 days into the future.
 Proactive Management: Identifies "Stress Periods" (periods where load exceeds rolling averages by 10%) to trigger early management interventions.
 Data-Backed Reporting: Automates the creation of professional PDF executive summaries, saving hours of manual data processing.
@@ -66,7 +70,11 @@ streamlit run app.py
 Eng. Yunes Abdulghani Mohammed Ghaleb
 AI & ML Engineer
 As a researcher and engineer specialized in AI and Machine Learning, I am passionate about leveraging technology to solve humanitarian and operational challenges.
+
 📧 Email: alshameeri.ai.eng@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/yunes-abdulghani-mohammed-ghaleb-b854b02b1
+
 🔗 GitHub: https://github.com/yunes-ai-eng
+
 Project developed with focus on scalability, data integrity, and professional reporting standards.
