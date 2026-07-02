@@ -55,8 +55,8 @@ Interactive Data Exploration: Deep-dive functionality allows for custom date-ran
 To run this project locally, ensure you have Python 3.9+ installed.
 1. Clone the Repository:
 bash
-git clone https://github.com/yunes-ai-eng/UAC-System-Capacity-and-Care-Load-Analytics.git
-cd UAC-System-Capacity-and-Care-Load-Analytics
+git clone [https://github.com/yunes-ai-eng/UAC-System-Capacity-and-Care-Load-Analytics.git
+cd UAC-System-Capacity-and-Care-Load-Analytics](https://uac-system-capacity-and-care-load-analytics-bwudksut85gjiy3e2m.streamlit.app/)
 2. Install Dependencies:
 bash
 pip install -r requirements.txt
